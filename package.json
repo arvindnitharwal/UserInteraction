@@ -1,0 +1,25 @@
+{
+  "name": "UserInteraction",
+  "version": "1.0.0",
+  "description": "user log service using redis,grpc and nodejs",
+  "main": "./src/app.js",
+  "scripts": {
+    "start": "node ./src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "async-redis": "^1.1.7",
+    "express": "^4.8.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arvindradawas/UserInteraction.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arvindradawas/UserInteraction/issues"
+  },
+  "homepage": "https://github.com/arvindradawas/UserInteraction#readme"
+}
