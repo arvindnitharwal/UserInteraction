@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "async-redis": "^1.1.7",
-    "express": "^4.8.7"
+    "express": "^4.18.2"
   },
   "repository": {
     "type": "git",
